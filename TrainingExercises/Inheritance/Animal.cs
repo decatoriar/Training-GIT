@@ -49,7 +49,7 @@ namespace Inheritance
 
         public virtual void Sleep()
         {
-            Console.WriteLine("Animal is sleeping.");
+            //Console.WriteLine("Animal is sleeping.");
         }
 
         
