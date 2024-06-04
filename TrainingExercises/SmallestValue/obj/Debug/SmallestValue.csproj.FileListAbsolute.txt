@@ -1,0 +1,14 @@
+C:\Users\Ark One\source\repos\TrainingExercises\SmallestValue\obj\Debug\SmallestValue.csproj.AssemblyReference.cache
+C:\Users\Ark One\source\repos\TrainingExercises\SmallestValue\obj\Debug\SmallestValue.csproj.CoreCompileInputs.cache
+C:\Users\Ark One\source\repos\TrainingExercises\SmallestValue\bin\Debug\SmallestValue.exe.config
+C:\Users\Ark One\source\repos\TrainingExercises\SmallestValue\bin\Debug\SmallestValue.exe
+C:\Users\Ark One\source\repos\TrainingExercises\SmallestValue\bin\Debug\SmallestValue.pdb
+C:\Users\Ark One\source\repos\TrainingExercises\SmallestValue\obj\Debug\SmallestValue.exe
+C:\Users\Ark One\source\repos\TrainingExercises\SmallestValue\obj\Debug\SmallestValue.pdb
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\SmallestValue\bin\Debug\SmallestValue.exe.config
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\SmallestValue\bin\Debug\SmallestValue.exe
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\SmallestValue\bin\Debug\SmallestValue.pdb
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\SmallestValue\obj\Debug\SmallestValue.csproj.AssemblyReference.cache
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\SmallestValue\obj\Debug\SmallestValue.csproj.CoreCompileInputs.cache
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\SmallestValue\obj\Debug\SmallestValue.exe
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\SmallestValue\obj\Debug\SmallestValue.pdb

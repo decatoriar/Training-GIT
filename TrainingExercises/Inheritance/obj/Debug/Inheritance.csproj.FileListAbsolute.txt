@@ -1,0 +1,14 @@
+C:\Users\Ark One\source\repos\TrainingExercises\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Ark One\source\repos\TrainingExercises\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Ark One\source\repos\TrainingExercises\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Ark One\source\repos\TrainingExercises\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Ark One\source\repos\TrainingExercises\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ark One\source\repos\TrainingExercises\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Ark One\source\repos\TrainingExercises\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Inheritance\obj\Debug\Inheritance.pdb

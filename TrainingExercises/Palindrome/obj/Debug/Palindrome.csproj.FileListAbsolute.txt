@@ -1,0 +1,14 @@
+C:\Users\Ark One\source\repos\TrainingExercises\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Ark One\source\repos\TrainingExercises\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Ark One\source\repos\TrainingExercises\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Ark One\source\repos\TrainingExercises\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+C:\Users\Ark One\source\repos\TrainingExercises\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Ark One\source\repos\TrainingExercises\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Ark One\source\repos\TrainingExercises\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Ark One.LAPTOP-53F5QK6Q\Downloads\TrainingExercises\TrainingExercises\Palindrome\obj\Debug\Palindrome.pdb
